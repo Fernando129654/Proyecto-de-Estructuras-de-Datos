@@ -8,4 +8,10 @@
  Para recuperar energía, tienes quedarte parado en una baldosa por 3 segundos.
 
  El clima puede influir en tu movimento, asique ojo con eso.
+
  Sí terminas rapido, tendras puntos de bonificación por tiempo.
+
+ 
+ Para ejecutar el programa se tiene que hacer desde el run and debugger de python en el main.
+
+ Por ultimo, en caso de que el requests de error, instale el request con "pip install requests" en el cmd a la version de python este usando.
